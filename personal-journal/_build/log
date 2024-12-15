@@ -1,0 +1,17 @@
+# dune exec ./main.exe view
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/vivekl/.cache/dune/db
+# Workspace root:
+# /Users/vivekl/Documents/GitHub/PersonalJournal/personal-journal
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/8_/l09cwgzs07gccv6hzcq4_5tr0000gn/T/dune_09d6fa_output
